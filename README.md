@@ -10,6 +10,8 @@
   Applied-AI R&amp;D lab. Agent systems, orchestration, observability — built in the open, run in real businesses: marketing, digital products, wealth-tech.
 </p>
 
+<p align="center"><b>Ideias · Sistemas · Pessoas · Impacto</b><br/>Construindo o que vem depois.</p>
+
 ---
 
 ### Upstream work
