@@ -7,12 +7,32 @@
 </p>
 
 <p align="center">
-  Applied-AI R&amp;D lab. Agent systems, orchestration, observability — built in the open, run in real businesses: marketing, digital products, wealth-tech.
+  Applied-AI research and engineering lab. Agent systems, orchestration and observability — built in the open, run in real businesses.
 </p>
 
-<p align="center"><b>Ideias · Sistemas · Pessoas · Impacto</b><br/>Construindo o que vem depois.</p>
+<p align="center"><a href="https://rusharlabs.com">rusharlabs.com</a></p>
+
+<p align="center"><b>Ideias · Sistemas · Pessoas · Impacto</b><br/><i>Construindo o que vem depois.</i></p>
 
 ---
+
+### What we work on
+
+Between a promising model and a system that actually helps someone there is a whole discipline:
+context that stays valid, decisions tied to the version they approved, work that survives an
+interruption, and people who keep the judgement. That gap is our research agenda — the essays,
+the method and the open laboratory live at [rusharlabs.com](https://rusharlabs.com).
+
+Every change we ship carries a test that fails before and passes after, a control that passes
+either way, and the evidence it rests on.
+
+---
+
+### Projects
+
+- **House Party Protocol** — an evidence-first harness for coding agents across Claude Code and
+  Codex CLI: governed loops, isolated lanes, deterministic evaluation, verified delivery. MIT.
+  Public release in preparation.
 
 ### Upstream work
 
@@ -22,23 +42,6 @@ Contributing to [NousResearch/hermes-agent](https://github.com/NousResearch/herm
 - [#108780](https://github.com/NousResearch/hermes-agent/pull/108780) — gateway: give lifecycle notices a channel of their own
 - [#116367](https://github.com/NousResearch/hermes-agent/pull/116367) — computer-use: fall back to `snapshot_id` for indexed actions the capture did not tokenise
 
-Every change ships with a test that fails before and passes after, a control that passes either way, and the live evidence it rests on.
-
 ---
 
-### As quatro dimensões
-
-**Ideias · Sistemas · Pessoas · Impacto** não são etapas — são dimensões conectadas do mesmo trabalho.
-
-- **Ideias** — a investigação, o território das possibilidades: o que ainda não existe e o que pode existir.
-- **Sistemas** — a transformação do conhecimento em algo que funciona. Se não roda, não é sistema.
-- **Pessoas** — quem constrói, colabora e usa. Tudo aqui é escrito para alguém operar.
-- **Impacto** — a mudança que acontece. Não o que foi entregue, mas o que ficou diferente depois.
-
-*Construindo o que vem depois.*
-
----
-
-### Projetos
-
-- [**House Party Protocol**](https://github.com/rushar-labs/house-party-protocol) — dez kits para Claude Code. Um harness onde nada sai sem uma segunda medição: o revisor roda em outro modelo e não tem ferramenta de escrita. MIT.
+<p align="center"><sub>Rushar Labs · Porto Alegre, Brazil · <a href="https://rusharlabs.com">rusharlabs.com</a></sub></p>
